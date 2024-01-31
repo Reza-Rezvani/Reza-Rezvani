@@ -1,8 +1,5 @@
-                                                   Hi Everyone 👋, I'm Reza
+                                                Hi Everyone 👋, I'm Reza
 
-<!--
-**Reza-Rezvani/Reza-Rezvani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
 Better know these:
 
 - 🔭 I’m currently working on Python(Django) Project
