@@ -1,4 +1,5 @@
-                                                <h1 style="text-align: center;">Hi Everyone 👋, I'm Reza</h1>
+<h1 align="center">Hi Everyone 👋, I'm Reza</h1>
+<h3 align="center">Python(Django) Developer</h3>
 
 Better know these:
 
